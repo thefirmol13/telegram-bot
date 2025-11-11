@@ -72,7 +72,6 @@ Telegram бот на Python и Flask, предоставляющий актуа�
 4. Запустите проект!
 
 
-
-
-
+📸 **Скриншоты работы**
+<img width="690" height="937" alt="image" src="https://github.com/user-attachments/assets/cf45d874-5cb2-4591-8200-2f268317a7ca" />
 
