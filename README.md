@@ -46,23 +46,33 @@ Telegram бот на Python и Flask, предоставляющий актуа�
 
 1. **Клонируйте репозиторий:**
 
-git clone https://github.com/ваш-username/ваш-репозиторий.git
-cd ваш-репозиторий
+   git clone https://github.com/ваш-username/ваш-репозиторий.git
+   cd ваш-репозиторий
 
 2. **Установите зависимости:**
 
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
 3. **Настройте переменные окружения:**
    Создайте файл .env:
 
-TELEGRAM_BOT_TOKEN=your_telegram_bot_token_here
-OPENWEATHER_API_KEY=your_openweather_api_key_here
+   TELEGRAM_BOT_TOKEN=your_telegram_bot_token_here
+   OPENWEATHER_API_KEY=your_openweather_api_key_here
 
 4. **Запустите приложение:**
 
-python bot.py
+   python bot.py
 
+
+
+🚀 Быстрый старт (для Replit)
+Форкните репозиторий
+
+Импортируйте в Replit
+
+Добавьте переменные окружения в Secrets
+
+Запустите проект!
 
 
 
